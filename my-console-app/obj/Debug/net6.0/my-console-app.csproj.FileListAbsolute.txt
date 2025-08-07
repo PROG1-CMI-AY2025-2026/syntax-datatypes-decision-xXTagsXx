@@ -1,0 +1,15 @@
+/workspaces/midterm-csharp-activity/my-console-app/bin/Debug/net6.0/my-console-app
+/workspaces/midterm-csharp-activity/my-console-app/bin/Debug/net6.0/my-console-app.deps.json
+/workspaces/midterm-csharp-activity/my-console-app/bin/Debug/net6.0/my-console-app.runtimeconfig.json
+/workspaces/midterm-csharp-activity/my-console-app/bin/Debug/net6.0/my-console-app.dll
+/workspaces/midterm-csharp-activity/my-console-app/bin/Debug/net6.0/my-console-app.pdb
+/workspaces/midterm-csharp-activity/my-console-app/obj/Debug/net6.0/my-console-app.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/midterm-csharp-activity/my-console-app/obj/Debug/net6.0/my-console-app.AssemblyInfoInputs.cache
+/workspaces/midterm-csharp-activity/my-console-app/obj/Debug/net6.0/my-console-app.AssemblyInfo.cs
+/workspaces/midterm-csharp-activity/my-console-app/obj/Debug/net6.0/my-console-app.csproj.CoreCompileInputs.cache
+/workspaces/midterm-csharp-activity/my-console-app/obj/Debug/net6.0/my-console-app.sourcelink.json
+/workspaces/midterm-csharp-activity/my-console-app/obj/Debug/net6.0/my-console-app.dll
+/workspaces/midterm-csharp-activity/my-console-app/obj/Debug/net6.0/refint/my-console-app.dll
+/workspaces/midterm-csharp-activity/my-console-app/obj/Debug/net6.0/my-console-app.pdb
+/workspaces/midterm-csharp-activity/my-console-app/obj/Debug/net6.0/my-console-app.genruntimeconfig.cache
+/workspaces/midterm-csharp-activity/my-console-app/obj/Debug/net6.0/ref/my-console-app.dll
