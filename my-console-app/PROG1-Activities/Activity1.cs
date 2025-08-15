@@ -11,11 +11,11 @@ namespace MyConsoleApp
 
         public string GetVariableDataTypes()
         {
-            int age = "twenty"
-            string Name = "Anna
-            bool isStudent = TRUE;
+            int age = 20
+            string Name = "Anna"
+            bool isStudent = true;
 
-            return $"Age: {age}, Name: {name}, Is Student: {isStudent}";
+            return $"Age: {age}, Name: {Name}, Is Student: {isStudent}";
         }
     }
 }
