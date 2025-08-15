@@ -11,7 +11,7 @@ namespace MyConsoleApp
 
         public string GetVariableDataTypes()
         {
-            int age = 20
+            int age = 20;
             string Name = "Anna"
             bool isStudent = true;
 
