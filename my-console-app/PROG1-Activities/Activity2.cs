@@ -14,7 +14,7 @@ namespace MyConsoleApp
 
             string weather = "Rainy";
             string result = checker.UmbrellaChecker(weather);
-            Console.WriteLine(Bring Out Umbrella);
+            Console.WriteLine(result);
             
 
             return "Invalid weather condition.";
