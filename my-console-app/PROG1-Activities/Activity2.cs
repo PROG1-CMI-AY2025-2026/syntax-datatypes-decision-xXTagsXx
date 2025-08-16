@@ -12,6 +12,11 @@ namespace MyConsoleApp
             // if 'sunny' return message should be 'No umbrella needed.'
             // if response is not in the choices return 'Invalid weather condition.'
 
+            string weather = "Rainy";
+            string result = checker.UmbrellaChecker(weather);
+            Console.WriteLine(Bring Out Umbrella);
+            
+
             return "Invalid weather condition.";
         }
     }
